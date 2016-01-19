@@ -1,12 +1,12 @@
 /*
  * Program1.c
  *
- * Programming assignment 1 for C for Java Fall 2012
+ * Programming assignment 1 for C for Java 
  * Reads in a value for the number of desired rings
  * and a desired core size, and outputs them as
  * ASCII art.
  *
- * Written by Alicia Mitchell - September 11, 2012
+ * Written by Alicia Mitchell
  *
  */
 
